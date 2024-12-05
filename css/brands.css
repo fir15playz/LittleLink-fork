@@ -39,10 +39,10 @@
 }
 
 /* Amazon */
-.button-amazon {
-	--button-text:#000000;
-	--button-background:#FFFFFF;
-	--button-border:1px solid #212121;
+.button-Cools-OP-Items {
+	--button-text:#ffffff;
+	--button-background:#212121;
+	--button-border:1px solid #5a0000;
 }
 
 /* Amazon Music */
