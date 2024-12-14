@@ -135,6 +135,12 @@
 	background-image:linear-gradient(to bottom,#00d64b,#00c244);
 }
 
+/* Danger */
+.button-danger {
+	--button-text:#000000;
+	--button-background:#e22121;
+}
+
 /* dev.to */
 .button-dev-to {
 	--button-text:#000000;
